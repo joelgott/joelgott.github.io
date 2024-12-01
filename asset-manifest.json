@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/joelgott.github.io/static/css/main.3553edb6.css",
-    "main.js": "/joelgott.github.io/static/js/main.2c411de5.js",
+    "main.js": "/joelgott.github.io/static/js/main.63516ab4.js",
     "static/js/415.4d6acbeb.chunk.js": "/joelgott.github.io/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/joelgott.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/joelgott.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/joelgott.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/joelgott.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/joelgottfriedCV.pdf": "/joelgott.github.io/static/media/joelgottfriedCV.37e3a53a82ef51a6228f.pdf",
     "static/media/codeEditor.png": "/joelgott.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/joelgott.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/joelgott.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/joelgott.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/joelgott.github.io/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/joelgott.github.io/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
     "static/media/home-bg.jpg": "/joelgott.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/joelgott.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/joelgott.github.io/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/joelgott.github.io/index.html",
     "main.3553edb6.css.map": "/joelgott.github.io/static/css/main.3553edb6.css.map",
-    "main.2c411de5.js.map": "/joelgott.github.io/static/js/main.2c411de5.js.map",
+    "main.63516ab4.js.map": "/joelgott.github.io/static/js/main.63516ab4.js.map",
     "415.4d6acbeb.chunk.js.map": "/joelgott.github.io/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/joelgott.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3553edb6.css",
-    "static/js/main.2c411de5.js"
+    "static/js/main.63516ab4.js"
   ]
 }
