@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.bb34be5b.css",
-    "main.js": "/static/js/main.643f93d6.js",
+    "main.js": "/static/js/main.eedbd104.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/Monografia_redes_neuronales.pdf": "/static/media/Monografia_redes_neuronales.9355650d7f1c76cad8fe.pdf",
     "static/media/nnhd.png": "/static/media/nnhd.4367891ac9467940a468.png",
     "static/media/inguide.png": "/static/media/inguide.78ede1e2a3a0f95f452a.png",
     "static/media/codeled.jpg": "/static/media/codeled.0862ea051481ae065c4b.jpg",
-    "static/media/joelgottfriedCVEN.pdf": "/static/media/joelgottfriedCVEN.be6d263c819dbbfa7ede.pdf",
-    "static/media/joelgottfriedCV.pdf": "/static/media/joelgottfriedCV.02a9f67258351935b6aa.pdf",
+    "static/media/joelgottfriedCVEN.pdf": "/static/media/joelgottfriedCVEN.0ad2d7b513325ae773bf.pdf",
+    "static/media/joelgottfriedCV.pdf": "/static/media/joelgottfriedCV.8bbb11981322f047a7da.pdf",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/grad9000.jpg": "/static/media/grad9000.c148623548a6cf98076c.jpg",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.bb34be5b.css.map": "/static/css/main.bb34be5b.css.map",
-    "main.643f93d6.js.map": "/static/js/main.643f93d6.js.map",
+    "main.eedbd104.js.map": "/static/js/main.eedbd104.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb34be5b.css",
-    "static/js/main.643f93d6.js"
+    "static/js/main.eedbd104.js"
   ]
 }
